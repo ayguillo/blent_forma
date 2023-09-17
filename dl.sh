@@ -1,0 +1,1 @@
+wget https://blent-learning-user-ressources.s3.eu-west-3.amazonaws.com/training/ml_engineer_facebook/data/sample.csv -q -O data/sample.csv
